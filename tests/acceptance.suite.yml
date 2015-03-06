@@ -13,7 +13,9 @@ modules:
     config:
         #PhpBrowser:
         WebDriver:
-            url: 'http://objavlenie.local'
+            #url: 'http://objavlenie.local'
+            #url: 'http://objavlenie.net'
+            url: 'http://sanyokk0.bget.ru/'
             browser: firefox
             wait: 0
             capabilities:
